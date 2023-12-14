@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gl1tc6
 - 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning OWASP, Cryptography, OSINT...
+- 🌱 I’m currently learning anything and everything cyber security related
+
 
 <!---
 Gl1tc6/Gl1tc6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
